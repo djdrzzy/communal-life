@@ -1,0 +1,29 @@
+<p><h1>Communal Life</h1></p>
+<p><h2>Because life is meant to be shared...</h2></p>
+
+<p>
+  <canvas id="golCanvas" width="64" height="64" style="width: 512px; height: 512px; "></canvas>
+</p>
+
+<p>
+  <div id="stepCounter"></div>
+  <div id="peopleConnected"></div>
+  <div id="highwater"></div>
+  <div id="debug"></div>
+</p>
+
+<p>
+  So what the heck is this? It's a fancy, concurrent, sorta-janky implementation of <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway's Game of Life</a>. Users can click and move their cursor to drop cells, and they will be reflected in all the other users' browser windows. Mobile is not quite there yet I'm afraid, but mobile users can tap to drop a cell although it might be difficult to be very precise.
+</p>
+
+<p>
+  Check it out on Github if you want: <a href="https://github.com/djdrzzy/communal-life">https://github.com/djdrzzy/communal-life</a>
+</p>
+
+<p>
+  This was made in the pretty cool <a href="http://elixir-lang.org">Elixir</a> language and the also pretty cool <a href="http://www.phoenixframework.org">Phoenix</a> framework. They're pretty fun!
+</p>
+
+<p>
+  Why the domain sicklick.ca? I had it kicking around from an earlier project, a fun <a href="https://itunes.apple.com/us/app/sick-lick-2.0/id817946923?mt=8">iOS app</a> dealing with <a href="https://en.wikipedia.org/wiki/Cyclic_cellular_automaton">Cyclic cellular automaton</a>.
+</p>
