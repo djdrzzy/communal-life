@@ -1,6 +1,6 @@
 # Communal Life
 
-So what the heck is this? It's a fancy, concurrent, sorta-janky implementation of Conway's Game of Life. Users can click and move their cursor to drop cells, and they will be reflected in all the other users' browser windows. Mobile is not quite there yet I'm afraid, but mobile users can tap to drop a cell although it might be difficult to be very precise.
+So what the heck is this? It's a fancy, concurrent, sorta-janky implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Users can click and move their cursor to drop cells, and they will be reflected in all the other users' browser windows. Mobile is not quite there yet I'm afraid, but mobile users can tap to drop a cell although it might be difficult to be very precise.
 
 Check it out on Github if you want: https://github.com/djdrzzy/communal-life
 
